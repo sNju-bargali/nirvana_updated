@@ -408,7 +408,14 @@ img.bg {
 
 }
 
+.discography-nevermind .content .songs ul li, .discography-nevermind .content .durarion ul li{
+font-size: 30px;
+    line-height: 1;
+}
 
+.discography-nevermind .content .songs ul li span, .discography-nevermind .content .durarion ul li span{
+    font-size: 20px;
+}
 
 
 /*media query for responsive*/
@@ -510,8 +517,9 @@ img.bg {
 .store-page .container .inner-content .stores-data h2.title{
     font-size: 45px;
     text-transform: uppercase;
-    margin-bottom: 25px;
+    margin-bottom: 40px;
     text-align: center;
+    margin-top: 30px;    
 }
 
 
@@ -523,7 +531,7 @@ img.bg {
     display: inline-flex;
     justify-content: space-around;
     width: 100%;
-    padding: 25px 0;
+    padding: 10px 0;
     margin: 0;
     border-top: 1px solid #b3b1b1;
     border-bottom: 1px solid #b3b1b1;
@@ -547,7 +555,14 @@ img.bg {
 }
 .store-page .container .inner-content .stores-data .product-store .item img{
     width: 100%;
+    height: 100%;
 }
+
 .pt-25{
     padding-top: 25px;
+}
+
+.goBack:hover
+{
+color: green;
 }
