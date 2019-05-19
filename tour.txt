@@ -1,0 +1,54 @@
+Tour Page
+Inbox
+x
+
+Akanksha Singh
+Sat, May 11, 7:36 AM (8 days ago)
+to me
+
+Hi sanjay,
+
+Here is the design of the Tour page:
+https://invis.io/7XRQ6GJY9FD#/360137294_Tour
+
+Buy tickets option for each row has the following hyperlinks:
+
+Elvana Asbury: https://www.ticketluck.com/categories/Elvana/Elvana-Asbury-Park-NJ/index.php
+
+
+
+DO314: https://do314.com/events/2019/5/10/smells-like-nirvana-comes-to-the-ob
+
+
+
+Tower Theatre: http://www.towertheatreokc.com/event/1833167-smells-like-nirvana-oklahoma-city/
+
+
+
+Concorde 2: https://www.concorde2.co.uk/events/elvana-elvis-fronted-nirvana-1
+
+
+
+Songkick: https://www.songkick.com/concerts/37407334-nirvana-experience-at-purty-kitchen
+
+------------
+Store Page
+
+Hi sanjay,
+
+Here is the design of the Store page:
+https://invis.io/7XRQ6GJY9FD#/360137295_Store
+
+When you scroll on each image, there should be a rollover style, similar to:
+https://shop.eminem.com/
+
+For the first 2 tshirts, copy the clickable text from the eminem link. Bas sirf first click tak he rakhna.
+
+Also, add a filter for topware and sticker. If I click on topware, only the first 5 images should appear. If I click on sticker, 6th image should appear.
+
+--------
+Discography Page
+
+
+
+https://invis.io/7XRQ6GJY9FD#/360137299_Discography
