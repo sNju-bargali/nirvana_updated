@@ -550,9 +550,7 @@ font-size: 30px;
     border-top: 1px solid #b3b1b1;
     border-bottom: 1px solid #b3b1b1;
     margin-bottom: 25px;
-}
-.store-page .container .inner-content .stores-data ul.tour-dates-title li{
-    margin-left: 25px;
+    padding-left:30px;
 }
 .store-page .container .inner-content .stores-data ul.stores-dates-title{
     list-style-type: none;
@@ -581,12 +579,12 @@ font-size: 30px;
     margin: 0;
     margin-bottom: 25px;
     align-items: flex-start;
+    padding-left: 30px;
 }
 .store-page .container .inner-content .stores-data ul.tour-dates ul{
     list-style-type: none;
     padding: 0;
     margin: 0;
-    margin-left: 25px;
 }
 .store-page .container .inner-content .stores-data ul.tour-dates ul li{
     font-size: 17px !important;
