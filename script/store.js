@@ -22,7 +22,7 @@ function allProducts(){
   allProduct.classList.add("active");
   hatProduct.classList.remove("active");
   stickerProduct.classList.remove("active");
-
+  topwareProduct.classList.remove("active");
 }
 
 function Stickers(){
@@ -36,6 +36,7 @@ function Stickers(){
   allProduct.classList.remove("active");
   hatProduct.classList.remove("active");
   stickerProduct.classList.add("active");
+  topwareProduct.classList.remove("active");
 
 }
 
@@ -50,7 +51,8 @@ function Hats(){
   allProduct.classList.remove("active");
   hatProduct.classList.add("active");
   stickerProduct.classList.remove("active");
-
+  topwareProduct.classList.add("active");
+  topwareProduct.classList.remove("active");
 }
 
 function Topware(){
@@ -65,4 +67,9 @@ function Topware(){
   hatProduct.classList.remove("active");
   stickerProduct.classList.remove("active");
   topwareProduct.classList.add("active");
+}
+
+function addToCart(){
+    window.open("addToCart.html","_self")
+    console.log('asdf');
 }
